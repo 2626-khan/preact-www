@@ -338,6 +338,12 @@ description: 'Companies who are proudly using Preact'
             SwissDev Jobs
         </a>
     </li>
+<li>
+        <a href="www.itsweekend.in" target="_blank">
+          <img src="weekend.png" alt="itsweekend"></a>
+    
+        </a>
+    </li>
 </ul>
 
 ---
